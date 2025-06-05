@@ -1,3 +1,6 @@
+## jx_vit_base_p16_224-80ecf9dd.pth Download Link:
+https://github.com/huggingface/pytorch-image-models/releases/download/v0.1-vitjx/jx_vit_base_p16_224-80ecf9dd.pth
+
 ## 📝 Data Preparation
 
 ### EgoClip & EgoMCQ
